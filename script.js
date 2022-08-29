@@ -15,7 +15,7 @@ color2.addEventListener("input", setGradient);
 
 h3.style.border = "1px solid  black";
 
-console.log(css);
+console.log(h3);
 
 console.log(color1);
 
